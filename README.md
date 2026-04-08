@@ -29,7 +29,6 @@ Currently exploring:
 
 In addition to my studies, I am involved in preparing and writing lectures for machine learning club as part
 of the [Development Students Club](https://dsc.alivetech.org).
-There's, we talk about classic ML,  with an emphasis on supervised learning.
 
 ## Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/karas3vv)
