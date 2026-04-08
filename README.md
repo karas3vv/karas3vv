@@ -1,6 +1,6 @@
 ## Hi there!
 
-<img src="https://files.catbox.moe/l5xhjw.gif" alt="Keanu Reeves" width="250"/>
+<img src="https://files.catbox.moe/l5xhjw.gif" alt="Keanu Reeves" width="550"/>
 
 I'm a third-year student at Saratov State University, majoring in Software Engineering.
 In addition to my studies, I am systematically exploring machine learning and deep learning.
