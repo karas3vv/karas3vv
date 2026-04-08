@@ -1,6 +1,6 @@
 ## Hi there!
 
-<img src="https://files.catbox.moe/l5xhjw.gif" alt="Keanu Reeves" width="550"/>
+<img src="https://files.catbox.moe/l5xhjw.gif" alt="Keanu Reeves" width="600"/>
 
 I'm a third-year student at Saratov State University, majoring in Software Engineering.
 In addition to my studies, I am systematically exploring machine learning and deep learning.
@@ -33,4 +33,4 @@ There's, we talk about classic ML,  with an emphasis on supervised learning.
 
 ## Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/karas3vv)
-[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:karasevvd.ya@yandex.ru)
+[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:karasevvd@gmail.ru)
