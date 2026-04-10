@@ -32,4 +32,4 @@ of the [Development Students Club](https://dsc.alivetech.org).
 
 ## Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/karas3vv)
-[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:karasevvd@gmail.ru)
+[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:karasevvd@gmail.com)
