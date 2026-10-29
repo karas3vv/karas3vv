@@ -1,6 +1,6 @@
 # Hello, World! I'm Vadim 👋
 
-<img src="https://files.catbox.moe/l5xhjw.gif" alt="Keanu Reeves" width="600"/>
+<img src="https://files.catbox.moe/l5xhjw.gif" alt="Keanu Reeves" width="800"/>
 
 I'm a fourth-year **Software Engineering student at Saratov State University**, focused on machine learning, information retrieval, and time-series analysis.
 
